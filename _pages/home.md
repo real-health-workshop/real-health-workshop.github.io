@@ -271,7 +271,7 @@ The one-day program spans roughly 7.5 hours, with more than half the time in dis
 
 ### Technical Program Committee Members
 
-Our Program Committee spans clinical NLP, reliability and safety, clinical informatics, privacy and security, federated learning, and software engineering for AI. Members below have confirmed their participation in reviewing for ReAL-Health 2027. The committee is being expanded to 70+ members ahead of the first call for papers, with recruitment targeted at clinical NLP and at European, Asia-Pacific, and Global South institutions.
+Our Program Committee spans clinical NLP, reliability and safety, clinical informatics, privacy and security, federated learning, and software engineering for AI. Members below are tentative for participation in reviewing for ReAL-Health 2027. The committee is being expanded to 70+ members ahead of the first call for papers, with recruitment targeted at clinical NLP and at European, Asia-Pacific, and Global South institutions.
 
 <div style="column-count: 2; column-gap: 2rem; margin-bottom: 3rem;">
   <ul style="padding-left: 1.2rem; margin: 0; line-height: 1.7;">
