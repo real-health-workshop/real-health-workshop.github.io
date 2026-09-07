@@ -49,13 +49,13 @@ ClinicalNLP and BioNLP center tasks, models, and resources for clinical and biom
 
 <p align="center">
   <a href="https://real-health-workshop.github.io/">ReAL-Health 2027</a> &bull; A
-  <a href="https://2027.naacl.org/">NAACL 2027</a> Workshop
+  <a href="https://2027.naacl.org/">NAACL 2027</a> Proposed Workshop
 </p>
 
 **Workshop date:** June 2027, pending workshop acceptance (notification October 2, 2026)
 **Location:** San Francisco, USA (NAACL 2027, hybrid)
 **Format:** One day, approximately 7.5 hours, hybrid-ready
-**Primary contacts:** sumon@case.edu, shibbir@txstate.edu
+**Primary contacts:** tauhid@stanford.edu, bhandarkar.avanti@mayo.edu, sumon@case.edu, aksikder@iastate.edu, shahnewazkarim-sakib@utc.edu, adas@uakron.edu, shibbir@txstate.edu
 
 > **Note:** This site is under construction. Items marked **TBA** will be updated after the workshop notification on October 2, 2026, and as the program is finalized.
 
