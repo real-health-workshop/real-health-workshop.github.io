@@ -115,7 +115,7 @@ Full bios are available on the [Organization page]({{ '/organization/' | relativ
 
 ### Invited Speakers
 
-**Keynote speakers**
+**Keynote speakers (Tentative)**
 
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1.5rem; flex-wrap:wrap; margin-bottom:2rem;">
 
@@ -144,7 +144,7 @@ Full bios are available on the [Organization page]({{ '/organization/' | relativ
 
 </div>
 
-**Invited talks**
+**Invited talks (Tentative)**
 
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1.5rem; flex-wrap:wrap; margin-bottom:3rem;">
 
