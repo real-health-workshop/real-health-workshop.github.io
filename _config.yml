@@ -6,7 +6,7 @@ title: "ReAL-Health 2027"
 first_name:
 middle_name:
 last_name:
-email: "sumon@case.edu, shibbir@txstate.edu"
+email: 
 description: >
   ReAL-Health 2027: Reliability and Assurance for Language Technology in Health, a workshop proposed for NAACL 2027 on making clinical language technology reliable, auditable, private, and safe enough to deploy.
 footer_text: >
@@ -17,7 +17,7 @@ lang: en
 icon: ⚕️
 
 url: "https://real-health-workshop.github.io"
-baseurl: "/real-health-workshop"
+baseurl: ""
 last_updated: false
 impressum_path:
 
