@@ -8,7 +8,7 @@ nav_order: 2
 
 # Invited Speakers
 
-ReAL-Health 2027 has nine confirmed invited speakers spanning clinical deployment, biomedical informatics, computational genomics, health data science, and population health, across academic, clinical, and national-laboratory settings. Further invitations to clinical-NLP researchers and to a regulatory-affairs speaker are in progress and will be listed here once confirmed. Talk titles and abstracts will be posted as they become available.
+ReAL-Health 2027 has nine tentative invited speakers spanning clinical deployment, biomedical informatics, computational genomics, health data science, and population health, across academic, clinical, and national-laboratory settings. Further invitations to clinical-NLP researchers and to a regulatory-affairs speaker are in progress and will be listed here once confirmed. Talk titles and abstracts will be posted as they become available.
 
 ## Keynote Speakers
 
